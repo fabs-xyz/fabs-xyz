@@ -37,22 +37,6 @@ STATUS="Building in production."
 
 ---
 
-## // Currently Building
-
-```
-[ PRIVATE REPO ]
-
-project_name : [redacted]
-description  : firewall workflow automation tool
-stack        : Python / REST API / FortiOS & PAN-OS
-status       : [ ██████████░░░░░░░░░░ ] in development
-release      : coming soon
-```
-
-> Vibing my way through a multi-vendor firewall automation tool — automating security policy lifecycle management across FortiOS and PAN-OS environments. Messy in the middle, clean at the output. Not public yet.
-
----
-
 ## // GitHub Stats
 
 <p align="center">

@@ -1,16 +1,72 @@
-## Hi there 👋
+```
+>> initializing profile...
+>> loading modules: [network_security] [automation] [firewall_engineering]
+>> status: operational
+```
 
-<!--
-**fabs-xyz/fabs-xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# $ whoami
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Security Engineer focused on **network security automation** — building tools that eliminate manual firewall workflows and operationalize enterprise security infrastructure at scale.
+
+Primarily driven by **vibe coding** — iterating fast, shipping practical tools, and figuring things out along the way.
+
+```bash
+$ cat /etc/profile.d/focus.conf
+
+SPECIALTY="Network Security | Firewall Automation | Security Engineering"
+PLATFORMS="Fortinet | Palo Alto Networks"
+APPROACH="Automate everything. Document what matters. Ship practical tools."
+STYLE="Vibe coding. Fast iteration. Real outcomes."
+STATUS="Building in production."
+```
+
+---
+
+## // Security Focus
+
+![Network Security](https://img.shields.io/badge/Network-Security-CC0000?style=flat-square&logo=cisco&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-Automation-FF6600?style=flat-square&logo=opnsense&logoColor=white)
+![Security Automation](https://img.shields.io/badge/Security-Automation-1A1A2E?style=flat-square&logo=ansible&logoColor=white)
+
+## // Enterprise Stack
+
+![Fortinet](https://img.shields.io/badge/Fortinet-FortiOS%20%7C%20FortiManager%20%7C%20FortiAnalyzer-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![Palo Alto Networks](https://img.shields.io/badge/Palo%20Alto%20Networks-PAN--OS%20%7C%20Panorama-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white)
+
+---
+
+## // Currently Building
+
+```
+[ PRIVATE REPO ]
+
+project_name : [redacted]
+description  : firewall workflow automation tool
+stack        : Python / REST API / FortiOS & PAN-OS
+status       : [ ██████████░░░░░░░░░░ ] in development
+release      : coming soon
+```
+
+> Vibing my way through a multi-vendor firewall automation tool — automating security policy lifecycle management across FortiOS and PAN-OS environments. Messy in the middle, clean at the output. Not public yet.
+
+---
+
+## // GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fabs-xyz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=prs,issues" height="160" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fabs-xyz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=5" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fabs-xyz&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</p>
+
+---
+
+```
+>> session terminated.
+```

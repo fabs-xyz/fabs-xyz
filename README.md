@@ -4,6 +4,11 @@ Security Engineer focused on **network security automation** — building tools 
 
 Primarily driven by **vibe coding** — iterating fast, shipping practical tools, and figuring things out along the way.
 
+### // Vibe Stack
+![GitHub Copilot](https://img.shields.io/badge/Copilot-8C4FFF?style=flat-square&logo=githubcopilot&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-00457C?style=flat-square&logo=git&logoColor=white)
+
 ```bash
 $ cat /etc/profile.d/focus.conf
 
@@ -40,4 +45,3 @@ STATUS="Building in production."
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fabs-xyz&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </p>
-

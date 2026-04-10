@@ -1,11 +1,3 @@
-```
->> initializing profile...
->> loading modules: [network_security] [automation] [firewall_engineering]
->> status: operational
-```
-
----
-
 # $ whoami
 
 Security Engineer focused on **network security automation** — building tools that eliminate manual firewall workflows and operationalize enterprise security infrastructure at scale.
@@ -49,8 +41,3 @@ STATUS="Building in production."
   <img src="https://streak-stats.demolab.com?user=fabs-xyz&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </p>
 
----
-
-```
->> session terminated.
-```

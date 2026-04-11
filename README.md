@@ -9,15 +9,6 @@ Primarily driven by **vibe coding** — iterating fast, shipping practical tools
 ![Claude AI](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-00457C?style=flat-square&logo=git&logoColor=white)
 
-```bash
-$ cat /etc/profile.d/focus.conf
-
-SPECIALTY="Network Security | Firewall Automation | Security Engineering"
-PLATFORMS="Fortinet | Palo Alto Networks"
-APPROACH="Automate everything. Document what matters. Ship practical tools."
-STYLE="Vibe coding. Fast iteration. Real outcomes."
-STATUS="Building in production."
-```
 
 ---
 

@@ -2,7 +2,7 @@
 
 Security Engineer focused on **network security automation** — building tools that eliminate manual firewall workflows and operationalize enterprise security infrastructure at scale.
 
-Primarily driven by **vibe coding** — shipping fast, shipping practical tools, and figuring things out along the way.
+Primarily driven by **vibe coding** — shipping fast, creating practical tools, and figuring things out along the way.
 
 ### // Vibe Stack
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-8C4FFF?style=flat-square&logo=githubcopilot&logoColor=white)

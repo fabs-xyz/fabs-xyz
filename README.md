@@ -4,35 +4,35 @@ Security Engineer focused on **network security automation** — building tools 
 
 Primarily driven by **vibe coding** — shipping fast, creating practical tools, and figuring things out along the way.
 
+---
+
 ### // Vibe Stack
-![GitHub Copilot](https://img.shields.io/badge/Copilot-8C4FFF?style=flat-square&logo=githubcopilot&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-00457C?style=flat-square&logo=git&logoColor=white)
 
-
----
-
-## // Security Focus
-
-![Network Security](https://img.shields.io/badge/Network-Security-CC0000?style=flat-square&logo=cisco&logoColor=white)
-![Firewall](https://img.shields.io/badge/Firewall-Automation-FF6600?style=flat-square&logo=opnsense&logoColor=white)
-![Security Automation](https://img.shields.io/badge/Security-Automation-1A1A2E?style=flat-square&logo=ansible&logoColor=white)
-
-## // Enterprise Stack
-
-![Fortinet](https://img.shields.io/badge/Fortinet-FortiOS%20%7C%20FortiManager%20%7C%20FortiAnalyzer-EE3124?style=flat-square&logo=fortinet&logoColor=white)
-![Palo Alto Networks](https://img.shields.io/badge/Palo%20Alto%20Networks-PAN--OS%20%7C%20Panorama-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white)
+[![OpenCode](https://img.shields.io/badge/OpenCode-00457C?style=for-the-badge&logo=git&logoColor=white)](https://opencode.ai)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-8C4FFF?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
 
 ---
 
-## // GitHub Stats
+### // Security Focus
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fabs-net&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=prs,issues" height="160" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fabs-net&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=5" height="160" />
-</p>
+![Network Security](https://img.shields.io/badge/NETWORK_SECURITY-101418?style=for-the-badge&labelColor=0B0F14&color=1F2937)
+![Firewall Automation](https://img.shields.io/badge/FIREWALL_AUTOMATION-101418?style=for-the-badge&labelColor=0B0F14&color=374151)
+![Security Automation](https://img.shields.io/badge/SECURITY_AUTOMATION-101418?style=for-the-badge&labelColor=0B0F14&color=4B5563)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fabs-net&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</p>
+---
+
+### // Enterprise Stack
+
+[![FortiOS](https://img.shields.io/badge/FortiOS-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](#)
+[![PAN-OS](https://img.shields.io/badge/PAN--OS-F04E23?style=for-the-badge&logo=paloaltonetworks&logoColor=white)](#)
+
+---
+
+
+### // GitHub Stats
+
+<table><tr>
+<td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fabs-net&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=prs,issues" /></td>
+<td><img src="https://streak-stats.demolab.com?user=fabs-net&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" /></td>
+</tr></table>

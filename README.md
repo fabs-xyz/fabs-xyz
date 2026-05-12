@@ -1,8 +1,8 @@
 # $ whoami
 
-Security Engineer focused on **network security automation** — building tools that eliminate manual firewall workflows and operationalize enterprise security infrastructure at scale.
+Security Engineer working on automating network security workflows and reducing manual firewall operations across large-scale environments.
 
-Primarily driven by **vibe coding** — shipping fast, creating practical tools, and figuring things out along the way.
+Primarily driven by vibe coding - shipping fast, creating practical tools, and figuring things out along the way.
 
 ---
 
